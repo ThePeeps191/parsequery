@@ -26,3 +26,7 @@ console.log(parseQuery("a")) // prints "b"
 
 console.log(parseQuery("hi")) // prints "there"
 ```
+
+# see also
+
+[parsecookie](https://github.com/ThePeeps191/parsecookie)
